@@ -1,0 +1,5 @@
+# Contents where you will place data html files - it is private so you do not want it to go public.
+data/
+
+# Again it is a result file so it is private and you do not want to go up.
+result
